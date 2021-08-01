@@ -1,0 +1,85 @@
+
+header{
+    background: #264653;
+
+}
+.catagories img {
+    width: 288px;
+    height: 241px;
+}
+.change-text{
+color: coral;
+}
+.image{
+    height: 441x;
+    width: 441px;
+   
+}
+.icon{
+    background-color: rgb(255, 255, 6);
+ 
+}
+/*  <ion-icon name="star-outline"></ion-icon>
+                            <ion-icon name="star-outline"></ion-icon>
+                            <ion-icon name="star-outline"></ion-icon>
+                            <ion-icon name="star-outline"></ion-icon>
+                            <ion-icon name="star-outline"></ion-icon> */
+                            /* add */
+
+
+                            
+.navbar-brand{
+    font-size: 2rem;
+    color: black;
+    font-family: 'Lobster', cursive;
+    background-color:rgb(99, 7, 11);
+    
+    
+}
+
+
+.nav-link{
+   color: #000;
+   text-transform: uppercase;
+}
+.search{
+   height:40px;
+   width:80%;
+   border-radius: 60px;
+   outline: none;
+   margin-right: -35px;
+   border: 2px solid rgb(248, 28, 92);
+
+}
+.btn0{
+   height:40px;
+   width:40%;
+   outline: none;
+   border: none;
+   background: rgb(248, 28, 92);
+   color: white;
+   border-radius: 60px;
+   font-weight: 1000;
+
+
+}
+
+  
+
+
+
+
+.btn1{
+   height: 45px;
+   width:35%;
+   background-color: rgb(248, 26, 92);
+   color: white;
+font-weight: 800;
+   border-radius: 65px;
+}
+.btn1:hover{
+   background-color: rgb(3, 243, 243);
+   transition: 0.5s;
+}
+
+
